@@ -40,8 +40,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" />
@@ -49,34 +61,71 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React JS" width="40" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/worldwide-location.png" alt="Leaflet JS" width="40" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" />
+  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/alpine.png" alt="Alpine JS" width="40" />
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="40" />
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node JS" width="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next JS" width="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="40" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" />
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="40" />
   </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="40" />
+  </a>
+  <a href="https://laragon.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/laragon.png" alt="Laragon" width="40" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" />
+  </a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/codeigniter.png" alt="CodeIgniter" width="40" />
+  </a>
+  <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-adonisjs-a-nodejs-mvc-framework-used-to-write-server-side-web-applications-logo-color-tal-revivo.png" alt="AdonisJS" width="40" />
+  </a>
 </p>
+
 
 ---
 
