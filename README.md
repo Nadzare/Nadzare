@@ -71,7 +71,7 @@
     <img src="https://img.icons8.com/color/48/000000/worldwide-location.png" alt="Leaflet JS" width="40" />
   </a>
   <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/alpine.png" alt="Alpine JS" width="40" />
+    <img src="https://alpinejs.dev/alpine_long.svg" alt="Alpine JS" width="40" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node JS" width="40" />
@@ -95,7 +95,7 @@
     <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" />
   </a>
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="40" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" />
@@ -113,18 +113,19 @@
     <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="40" />
   </a>
   <a href="https://laragon.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/laragon.png" alt="Laragon" width="40" />
+    <img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" alt="Laragon" width="40" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" />
   </a>
   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/codeigniter.png" alt="CodeIgniter" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" />
   </a>
   <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-adonisjs-a-nodejs-mvc-framework-used-to-write-server-side-web-applications-logo-color-tal-revivo.png" alt="AdonisJS" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="AdonisJS" width="40" />
   </a>
 </p>
+
 
 
 ---
