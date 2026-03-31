@@ -16,8 +16,6 @@
 
 ## ⚡ About Me
 - 🎓 Informatics Student at **Universitas Jenderal Soedirman**
-- 🚀 Currently building a startup called **Soedirman Inovasi Digital** & developing a platform called **Ivolate**
-- 🏆 Finalist in Gemastik XVII (Software Development)
 - 💻 Focus on Fullstack Web & Mobile App Development
 - 🎨 Passionate about UI/UX Design, clean code, and interactive systems
 - 📚 Love documenting everything I build and sharing knowledge (Experienced Design Tutor!)
