@@ -1,124 +1,92 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,10&height=220&section=header&text=Hi%20I'm%20Nadzare%20Kafah%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=250&section=header&text=Nadzare%20Kafah%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <b>Fullstack Developer | Mobile Developer | Tech Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer;Tech+Enthusiast;UI%2FUX+Lover;Always+Learning+New+Things" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="380"/>
+  <img src="https://komarev.com/ghpvc/?username=nadzare&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## ⚡ About Me
-- 🎓 Informatics Student at **Universitas Jenderal Soedirman**
-- 💻 Focus on Fullstack Web & Mobile App Development
-- 🎨 Passionate about UI/UX Design, clean code, and interactive systems
-- 📚 Love documenting everything I build and sharing knowledge (Experienced Design Tutor!)
+```diff
++ 🎓 Informatics Student
++ 💻 Focus: Fullstack Web Development
++ 🚀 Building real-world applications
++ 🧠 Exploring AI, IoT & System Design
++ 📚 Strong in documentation & UI thinking
+```
 
----
+### 🧠 Languages & Tools
 
-## 🧠 Languages & Tools
-
-### 💻 Programming Languages
+**💻 Programming Languages**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,c,cpp" />
 </p>
 
-### 🌐 Web & Frameworks
+**🌐 Web & Frameworks**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind,bootstrap,laravel,vue,angular" />
 </p>
 
-### 🗄️ Databases & Backend Services
+**🗄️ Databases & Backend Services**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/supabase.png" alt="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
 </p>
 
-### 🎨 Design & Creative Tools
+**🎨 Design & Creative Tools**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop"/>
-  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator"/>
-  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://img.icons8.com/color/48/canva.png"/>
 </p>
 
-### 🛠 Tools & Platforms
+**🛠 Tools & Platforms**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://img.icons8.com/color/48/google-colab.png"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-## 🔥 Contribution Activity
-
+### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:kafahnadzare@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/nadzare-kafah-alfatiha">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/nadzarekafaha">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://fb.com/nadzare.alfatiha">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  <a href="https://facebook.com/nadzare.alfatiha">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
 
----
-
-## ✨ Closing
+### 💬 Quote
 <p align="center">
-  <b>“Code, Build, Improve, Repeat 🚀”</b>
+  <i>"First, solve the problem. Then, write the code." 💻</i>
+</p>
+
+<p align="center">
+  🔥 <b>Let's build something amazing together!</b> 🚀
 </p>
