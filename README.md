@@ -33,10 +33,10 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> <img src="https://img.icons8.com/color/48/canva.png"/> </p>
 🛠 Tools & Platforms
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> <img src="https://img.icons8.com/color/48/google-colab.png"/> <img src="https://img.icons8.com/color/48/xampp.png"/> <img src="https://img.icons8.com/color/48/laragon.png"/> <img src="https://img.icons8.com/color/48/database.png" title="HeidiSQL"/> </p>
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 🔥 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"/> </p>
