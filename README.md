@@ -13,7 +13,6 @@
 ---
 
 ## ⚡ About Me
-```diff
 + 🎓 Informatics Student
 + 💻 Focus: Fullstack Web & Mobile Development
 + 🚀 Building real-world applications
