@@ -32,7 +32,14 @@
 🎨 Design & Creative Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> <img src="https://img.icons8.com/color/48/canva.png"/> </p>
 🛠 Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> <img src="https://img.icons8.com/color/48/google-colab.png"/> <img src="https://img.icons8.com/color/48/xampp.png"/> <img src="https://img.icons8.com/color/48/laragon.png"/> <img src="https://img.icons8.com/color/48/database.png" title="HeidiSQL"/> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+  <img src="https://img.icons8.com/?size=48&id=WpzmKzk11AzJ&format=png" width="40" title="Google Colab"/>
+  <img src="https://img.icons8.com/?size=48&id=59953&format=png" width="40" title="XAMPP"/>
+  <img src="https://img.icons8.com/?size=48&id=54834&format=png" width="40" title="Laragon"/>
+  <img src="https://img.icons8.com/?size=48&id=39913&format=png" width="40" title="HeidiSQL"/>
+</p>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
 🔥 Contribution Graph
