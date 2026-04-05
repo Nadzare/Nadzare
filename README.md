@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
   <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
-  <img src="https://img.icons8.com/color/48/laragon.png" alt="Laragon"/>
+  <img src="https://img.icons8.com/color/48/laragon.png" height="48"/>
   <img src="https://img.icons8.com/color/48/database.png" alt="HeidiSQL" title="HeidiSQL"/>
 </p>
 📊 GitHub Analytics
