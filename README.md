@@ -31,8 +31,14 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb" /> </p>
 🎨 Design & Creative Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> <img src="https://img.icons8.com/color/48/canva.png"/> </p>
-🛠 Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> <img src="https://img.icons8.com/color/48/google-colab.png"/> <img src="https://img.icons8.com/color/48/xampp.png"/> <img src="https://img.icons8.com/color/48/laragon.png"/> <img src="https://img.icons8.com/color/48/database.png" title="HeidiSQL"/> </p>
+🛠 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
+  <img src="https://img.icons8.com/color/48/laragon.png" alt="Laragon"/>
+  <img src="https://img.icons8.com/color/48/database.png" alt="HeidiSQL" title="HeidiSQL"/>
+</p>
 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
