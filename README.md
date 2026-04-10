@@ -33,11 +33,11 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> <img src="https://img.icons8.com/color/48/canva.png"/> </p>
 <h3 align="left">🛠 Tools & Platforms</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Git, GitHub, VS Code, Postman, Docker" />
-<img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
-<img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
-<img src="https://raw.githubusercontent.com/khirulnizam/mobilehybrid/master/laragon.png" width="48" height="48" alt="Laragon"/>
-<img src="https://www.heidisql.com/images/icon.png" width="48" height="48" alt="HeidiSQL"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
+  <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/HeidiSQL_logo_image.png" width="48" height="48" alt="HeidiSQL"/>
 </p>
 📊 GitHub Analytics
 <p align="center">
