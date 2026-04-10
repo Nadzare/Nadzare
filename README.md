@@ -37,7 +37,7 @@
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
   <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
   <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/HeidiSQL_logo_image.png" width="48" height="48" alt="HeidiSQL"/>
+  <img src="https://www.google.com/s2/favicons?domain=heidisql.com&sz=128" width="48" height="48" alt="HeidiSQL"/>
 </p>
 📊 GitHub Analytics
 <p align="center">
