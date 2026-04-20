@@ -35,9 +35,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
   <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon"/>
   <img src="https://www.google.com/s2/favicons?domain=heidisql.com&sz=128" width="48" height="48" alt="HeidiSQL"/>
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
 </p>
 📊 GitHub Analytics
 <p align="center">
