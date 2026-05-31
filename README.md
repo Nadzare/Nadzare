@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 + 🎓 Informatics Student
-+ 💻 Focus: Fullstack Web & Mobile Development
++ 💻 Focus: Fullstack Web, Mobile Development, and Social Media Management
 + 🚀 Building real-world applications
 + 🧠 Exploring AI, IoT & System Design
 + 📚 Strong in documentation & UI thinking
