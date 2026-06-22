@@ -13,7 +13,7 @@
 ---
 
 ## ⚡ About Me
-+ 🎓 Informatics Student
++ 🎓 Informatics Student, Jenderal Soedirman University
 + 💻 Focus: Fullstack Web, Mobile Development, and Social Media Management
 + 🚀 Building real-world applications
 + 🧠 Exploring AI, IoT & System Design
