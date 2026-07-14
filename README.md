@@ -16,7 +16,7 @@
 + 🎓 Informatics Student, Jenderal Soedirman University
 + 💻 Focus: Fullstack Web, Mobile Development, and Social Media Management
 + 🚀 Building real-world applications
-+ 🧠 Exploring AI, IoT & System Design
++ 🧠 Exploring AI, ML, IoT & System Design
 + 📚 Strong in documentation & UI thinking
 
 ---
