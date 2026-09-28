@@ -48,5 +48,5 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"/> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-🌐 Connect With Me
+🌐 Let's Connect With Me
 <p align="center"> <a href="mailto:kafahnadzare@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/nadzare-kafah-alfatiha"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://instagram.com/nadzarekafaha"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://facebook.com/nadzare.alfatiha"> <img src="https://skillicons.dev/icons?i=facebook" /> </a> </p> ```
