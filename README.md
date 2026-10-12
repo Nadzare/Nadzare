@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ Hallo About Me
 + 🎓 Informatics Student, Jenderal Soedirman University
 + 💻 Focus: Fullstack Web, Mobile Development, and Social Media Management, Customer Relationship Management
 + 🚀 Building real-world applications
