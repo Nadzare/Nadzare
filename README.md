@@ -1,10 +1,10 @@
- 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=250&section=header&text=Nadzare%20Kafah%20Alfatiha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=250&section=header&text=Nadzare%20Kafah%20Alfatiha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Nadzare Kafah Alfatiha" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer;Tech+Enthusiast;UI%2FUX+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer;Tech+Enthusiast;UI%2FUX+Lover;Always+Learning+New+Things" alt="Developer Introduction" />
 </p>
 
 <p align="center">
@@ -28,39 +28,39 @@
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,c,cpp,kotlin,dart" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,c,cpp,kotlin,dart" alt="Programming Languages" />
 </p>
 
 ### Web & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind,bootstrap,laravel,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind,bootstrap,laravel,vue,angular" alt="Web Technologies" />
 </p>
 
 ### Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/ionic.png" alt="Ionic" />
 </p>
 
 ### Databases & Backend Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb" alt="Databases and Backend Services" />
 </p>
 
 ### Design & Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools" />
   <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development Tools" />
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" />
   <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP" />
   <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon" />
@@ -73,14 +73,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadzare&theme=tokyonight"
     height="165"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadzare&theme=tokyonight"
     height="165"
-    alt="Top Languages"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadzare&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
   />
 </p>
 
@@ -92,7 +100,7 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"
     width="100%"
-    alt="Contribution Graph"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
