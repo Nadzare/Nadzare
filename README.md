@@ -84,21 +84,13 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadzare&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
 ---
 
 ## Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadzare&theme=tokyonight"
     width="100%"
     alt="GitHub Contribution Graph"
   />
@@ -109,11 +101,21 @@
 ## Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nadzare/nadzare/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nadzare/nadzare/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nadzare/nadzare/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/nadzare/nadzare/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
