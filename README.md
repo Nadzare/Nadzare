@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=250&section=header&text=Nadzare%20Kafah%20Alfatiha%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=250&section=header&text=Nadzare%20Kafah%20Alfatiha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadzare&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nadzare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://img.icons8.com/color/48/ionic.png"/>
+  <img src="https://img.icons8.com/color/48/ionic.png" alt="Ionic" />
 </p>
 
 ### Databases & Backend Services
@@ -54,17 +54,17 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  <img src="https://img.icons8.com/color/48/canva.png"/>
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
-  <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon"/>
-  <img src="https://www.google.com/s2/favicons?domain=heidisql.com&sz=128" width="48" height="48" alt="HeidiSQL"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" />
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP" />
+  <img src="https://cdn.simpleicons.org/laragon/09B9F0" width="48" height="48" alt="Laragon" />
+  <img src="https://www.google.com/s2/favicons?domain=heidisql.com&sz=128" width="48" height="48" alt="HeidiSQL" />
 </p>
 
 ---
@@ -72,20 +72,40 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nadzare&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadzare&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
+
+---
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nadzare&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
+
+---
 
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/nadzare/nadzare/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
@@ -94,15 +114,15 @@
 
 <p align="center">
   <a href="mailto:kafahnadzare@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/nadzare-kafah-alfatiha">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/nadzarekafaha">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://facebook.com/nadzare.alfatiha">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
 </p>
