@@ -16,7 +16,7 @@
 ## About Me
 
 - Informatics Student at Jenderal Soedirman University
-- Focus: Fullstack Web Development, Mobile Development, Social Media Management, and Customer Relationship Management
+- Focus: Fullstack Web Development, Mobile Development, Social Media Management, Graphic Design and Customer Relationship Management
 - Building real-world applications
 - Exploring AI, Machine Learning, IoT, and System Design
 - Strong interest in technical documentation and UI/UX design
